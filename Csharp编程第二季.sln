@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-面向对象", "04-面�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-属性", "05-属性\05-属性.csproj", "{58526BC5-BE00-4276-9ABE-1E62AC449227}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-基本型変数と参照型変数のメモリー", "基本型変数と参照型変数のメモリー\06-基本型変数と参照型変数のメモリー.csproj", "{C1CB4E4A-65D4-4B1B-9CD3-E638A5717F16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{58526BC5-BE00-4276-9ABE-1E62AC449227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58526BC5-BE00-4276-9ABE-1E62AC449227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58526BC5-BE00-4276-9ABE-1E62AC449227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1CB4E4A-65D4-4B1B-9CD3-E638A5717F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CB4E4A-65D4-4B1B-9CD3-E638A5717F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CB4E4A-65D4-4B1B-9CD3-E638A5717F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CB4E4A-65D4-4B1B-9CD3-E638A5717F16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

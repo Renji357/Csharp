@@ -10,7 +10,7 @@
             c1.Address = "北京";
             c1.CreateTime = "2018-01-01";
 
-            // 匿名型
+            // 匿名型（とくめいかた）
             var age2 = 45;
             var name2 = "shiki";
         }
